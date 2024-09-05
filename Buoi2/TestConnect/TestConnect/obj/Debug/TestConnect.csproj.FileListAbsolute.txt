@@ -1,0 +1,11 @@
+D:\LT.NET_Phong\.Net_TH_CNTT\Buoi2\TestConnect\TestConnect\bin\Debug\TestConnect.exe.config
+D:\LT.NET_Phong\.Net_TH_CNTT\Buoi2\TestConnect\TestConnect\bin\Debug\TestConnect.exe
+D:\LT.NET_Phong\.Net_TH_CNTT\Buoi2\TestConnect\TestConnect\bin\Debug\TestConnect.pdb
+D:\LT.NET_Phong\.Net_TH_CNTT\Buoi2\TestConnect\TestConnect\obj\Debug\TestConnect.csproj.AssemblyReference.cache
+D:\LT.NET_Phong\.Net_TH_CNTT\Buoi2\TestConnect\TestConnect\obj\Debug\TestConnect.csproj.SuggestedBindingRedirects.cache
+D:\LT.NET_Phong\.Net_TH_CNTT\Buoi2\TestConnect\TestConnect\obj\Debug\TestConnect.Form1.resources
+D:\LT.NET_Phong\.Net_TH_CNTT\Buoi2\TestConnect\TestConnect\obj\Debug\TestConnect.Properties.Resources.resources
+D:\LT.NET_Phong\.Net_TH_CNTT\Buoi2\TestConnect\TestConnect\obj\Debug\TestConnect.csproj.GenerateResource.cache
+D:\LT.NET_Phong\.Net_TH_CNTT\Buoi2\TestConnect\TestConnect\obj\Debug\TestConnect.csproj.CoreCompileInputs.cache
+D:\LT.NET_Phong\.Net_TH_CNTT\Buoi2\TestConnect\TestConnect\obj\Debug\TestConnect.exe
+D:\LT.NET_Phong\.Net_TH_CNTT\Buoi2\TestConnect\TestConnect\obj\Debug\TestConnect.pdb

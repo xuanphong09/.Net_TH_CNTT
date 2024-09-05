@@ -1,0 +1,11 @@
+D:\LT.NET_Phong\.Net_TH_CNTT\Buoi2\HocTruyVan\HocTruyVan\bin\Debug\HocTruyVan.exe.config
+D:\LT.NET_Phong\.Net_TH_CNTT\Buoi2\HocTruyVan\HocTruyVan\bin\Debug\HocTruyVan.exe
+D:\LT.NET_Phong\.Net_TH_CNTT\Buoi2\HocTruyVan\HocTruyVan\bin\Debug\HocTruyVan.pdb
+D:\LT.NET_Phong\.Net_TH_CNTT\Buoi2\HocTruyVan\HocTruyVan\obj\Debug\HocTruyVan.csproj.AssemblyReference.cache
+D:\LT.NET_Phong\.Net_TH_CNTT\Buoi2\HocTruyVan\HocTruyVan\obj\Debug\HocTruyVan.csproj.SuggestedBindingRedirects.cache
+D:\LT.NET_Phong\.Net_TH_CNTT\Buoi2\HocTruyVan\HocTruyVan\obj\Debug\HocTruyVan.Form1.resources
+D:\LT.NET_Phong\.Net_TH_CNTT\Buoi2\HocTruyVan\HocTruyVan\obj\Debug\HocTruyVan.Properties.Resources.resources
+D:\LT.NET_Phong\.Net_TH_CNTT\Buoi2\HocTruyVan\HocTruyVan\obj\Debug\HocTruyVan.csproj.GenerateResource.cache
+D:\LT.NET_Phong\.Net_TH_CNTT\Buoi2\HocTruyVan\HocTruyVan\obj\Debug\HocTruyVan.csproj.CoreCompileInputs.cache
+D:\LT.NET_Phong\.Net_TH_CNTT\Buoi2\HocTruyVan\HocTruyVan\obj\Debug\HocTruyVan.exe
+D:\LT.NET_Phong\.Net_TH_CNTT\Buoi2\HocTruyVan\HocTruyVan\obj\Debug\HocTruyVan.pdb
