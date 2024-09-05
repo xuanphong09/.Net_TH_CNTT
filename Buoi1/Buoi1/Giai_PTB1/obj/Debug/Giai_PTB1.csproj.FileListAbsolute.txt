@@ -1,0 +1,11 @@
+D:\LT.NET_Phong\Buoi1\Buoi1\Giai_PTB1\obj\Debug\Giai_PTB1.csproj.AssemblyReference.cache
+D:\LT.NET_Phong\Buoi1\Buoi1\Giai_PTB1\obj\Debug\Giai_PTB1.csproj.SuggestedBindingRedirects.cache
+D:\LT.NET_Phong\Buoi1\Buoi1\Giai_PTB1\obj\Debug\Giai_PTB1.Form1.resources
+D:\LT.NET_Phong\Buoi1\Buoi1\Giai_PTB1\obj\Debug\Giai_PTB1.Properties.Resources.resources
+D:\LT.NET_Phong\Buoi1\Buoi1\Giai_PTB1\obj\Debug\Giai_PTB1.csproj.GenerateResource.cache
+D:\LT.NET_Phong\Buoi1\Buoi1\Giai_PTB1\obj\Debug\Giai_PTB1.csproj.CoreCompileInputs.cache
+D:\LT.NET_Phong\Buoi1\Buoi1\Giai_PTB1\bin\Debug\Giai_PTB1.exe.config
+D:\LT.NET_Phong\Buoi1\Buoi1\Giai_PTB1\bin\Debug\Giai_PTB1.exe
+D:\LT.NET_Phong\Buoi1\Buoi1\Giai_PTB1\bin\Debug\Giai_PTB1.pdb
+D:\LT.NET_Phong\Buoi1\Buoi1\Giai_PTB1\obj\Debug\Giai_PTB1.exe
+D:\LT.NET_Phong\Buoi1\Buoi1\Giai_PTB1\obj\Debug\Giai_PTB1.pdb
